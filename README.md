@@ -1,7 +1,11 @@
 # MALICIOUS EXTENSION - EXTENSION MALICIEUSE
-Ce projet est à but d'exemple pour montrer les risques que peuvent poser les extensions Chrome. Ce genre d'extensions Bypass tous les antivirus.
 
+Ce projet est à but d'exemple pour montrer les risques que peuvent poser les extensions Chrome. Ce genre d'extensions Bypass tous les antivirus et n'est détectable que par l'utilisateur. Le code n'a pas besoin d'être Obfuscaté.
+L'extension peut être installer de manière automatique par le biais d'un .lnk ce que je ne montrerais pas ici.
 
+# FONCTIONNEMENT
+
+Content.JS log les touches de l'utilisateur et background.JS s'occupe de l'envoyer côté serveur. Côté serveur, index.PHP met les touches envoyées par l'extension dans un fichier TXT.
 
 # EXEMPLE DU RÉSULTAT
 
