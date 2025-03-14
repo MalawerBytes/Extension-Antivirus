@@ -1,5 +1,6 @@
 # Extension-Antivirus
-First beta of the antivirus of MalawerBytes for chrome and all your computer.
+~ MALICIOUS EXTENSION - EXTENSION MALICIEUSE ~
+Ce projet est à but d'exemple pour montrer les risques que peuvent poser les extensions Chrome.
 
 
 
