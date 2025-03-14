@@ -1,6 +1,5 @@
-# Extension-Antivirus
-~ MALICIOUS EXTENSION - EXTENSION MALICIEUSE ~
-Ce projet est à but d'exemple pour montrer les risques que peuvent poser les extensions Chrome.
+# MALICIOUS EXTENSION - EXTENSION MALICIEUSE
+Ce projet est à but d'exemple pour montrer les risques que peuvent poser les extensions Chrome. Ce genre d'extensions Bypass tous les antivirus.
 
 
 
